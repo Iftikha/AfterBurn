@@ -1,0 +1,48 @@
+{
+  "weeks": 9,
+  "day1": {
+    "focus": "Upper Body Strength",
+    "exercises": [
+      "Barbell Overhead Press 4x5",
+      "Pull-ups 4xMax Reps",
+      "Incline Dumbbell Press 3x8",
+      "Bent-Over Barbell Rows 3x8",
+      "Dumbbell Bicep Curls 3x10",
+      "Overhead Dumbbell Triceps Extensions 3x10"
+    ]
+  },
+  "day2": {
+    "focus": "Lower Body Strength",
+    "exercises": [
+      "Barbell Back Squats 4x5",
+      "Romanian Deadlifts (Barbell or Dumbbell) 4x6",
+      "Bulgarian Split Squats 3x10 per leg",
+      "Glute Ham Raises (or Hyperextensions) 3x12",
+      "Standing Calf Raises 4x15"
+    ]
+  },
+  "day3": {
+    "focus": "Push Focus & Core",
+    "exercises": [
+      "Barbell Bench Press 4x5",
+      "Seated Dumbbell Shoulder Press 3x8",
+      "Dips 3xMax Reps",
+      "Dumbbell Lateral Raises 3x12",
+      "Close Grip Push-ups 3x15",
+      "Plank 3x60s",
+      "Ab Rollouts 3x15"
+    ]
+  },
+  "day4": {
+    "focus": "Pull Focus & Core",
+    "exercises": [
+      "Deadlifts (Barbell) 3x3-5",
+      "Barbell Rows 3x8",
+      "Face Pulls (resistance band or cable) 3x12",
+      "Hammer Curls 3x10",
+      "Bent-Over Reverse Flyes (Dumbbell) 3x12",
+      "Hanging Leg Raises 3x15",
+      "Russian Twists 3x20 (total)"
+    ]
+  }
+}
